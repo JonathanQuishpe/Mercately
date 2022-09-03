@@ -1,24 +1,10 @@
-# frontend
+# Challenge Mercately
 
-## Project setup
-```
-npm install
-```
+## Carpeta backend
+La carpeta contiene el API del proyecto, desarrollada en Yii2
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Carpeta database
+La carpeta contiene el modelo de base de datos en Workbrench y el script de la misma
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Carpeta frontend
+La carpeta contiene la interfaz de usuario de usuario del proyecto, desarrollada en VUE
