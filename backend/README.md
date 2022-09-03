@@ -86,7 +86,7 @@ CONFIGURATION
 
 ### Database
 
-Copya db-example as db.ph and edit the file `config/db.php` with real data, for example:
+Copya db-example as db.php and edit the file `config/db.php` with real data, for example:
 
 ```php
 return [
