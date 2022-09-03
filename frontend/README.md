@@ -1,4 +1,4 @@
-# FronEnd VUEJS
+# FronEnd VUE
 
 ## Instalar dependencias
 ```
@@ -10,6 +10,6 @@ npm install
 npm run serve
 ```
 
-### Copy .env.example
-Copia el archivo .env.example como .env; coloca la URL del API de tu servidor dentro del mismo
+### Copiar .env.example
+Copia el archivo .env.example como .env; coloca la URL del API (carpeta backend) de tu servidor dentro del mismo
 
